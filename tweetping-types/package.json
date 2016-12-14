@@ -1,0 +1,18 @@
+{
+  "name": "tweetping-types",
+  "version": "1.0.0",
+  "description": "tweetping tcomb types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweetping",
+    "types"
+  ],
+  "author": "Franck Ernewein",
+  "license": "ISC",
+  "dependencies": {
+    "tcomb-form-types": "^1.1.0"
+  }
+}
