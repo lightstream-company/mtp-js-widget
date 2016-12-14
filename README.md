@@ -13,6 +13,11 @@
   * handle actions in store (reducers)
 * Create React component(s)
 * Plug components to Redux store 
+* Skin wall
+  * colors for different sources
+  * display profile picture
+* Make each item clickable
+  
 
 ### Create a map
 
@@ -29,4 +34,5 @@
 * Plug components to Redux store 
 * use `equirectangular-projection` to project GeoJSON data on map
 * display points in map component
+* Make each dot clickable
 
