@@ -1,4 +1,4 @@
-# Montpellier Javascript Widget
+# MontpellierJS Widget
 
 ## Plan    
 
