@@ -12,6 +12,11 @@
   position: relative;
 }
 
+.wall .post img{
+  float: left;
+  width: 40px;
+  margin-right: 5px;
+}
 .wall .post h2{
   margin: 0;
   padding: 0;
