@@ -43,7 +43,7 @@ load('wall/', {
   });
 });
 
-//connect('geo', (post) => console.log('geo post', post));
+connect('geo', (post) => console.log('geo post', post));
 
 ReactDOM.render(
   <Provider store={store}>
