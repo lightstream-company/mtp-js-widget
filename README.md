@@ -36,3 +36,23 @@
 * display points in map component
 * Make each dot clickable
 
+## Bootstrapping 
+
+```
+//install facebook build configuration scripts
+npm install -g create-react-app
+
+//create new app
+create-react-app mtp-js-widget
+
+//go the app directory...
+cd mtp-js-widget
+//... and start the dev server
+npm start
+// => visit http://localhost:3000/
+
+//install dependencies
+npm install --save tweetping-connect redux react-redux
+
+//start coding :)
+```
